@@ -1,0 +1,100 @@
+[
+  {
+    "product_id": "10020744233225",
+    "gtin": "8716404224905",
+    "title": "Schnürsenkel 110cm 1 Paar",
+    "description": "Schnürsenkel 110cm 1 Paar - Im Outlet Sale  Die Schnürsenkel 110 cm 1 Paar bieten die perfekte Länge für eine Vielzahl von Schuhen, sei es für Sneakers, Stiefel oder Freizeitschuhe. Diese Schnürsenkel zeichnen sich durch ihre hohe Reissfestigkeit aus, da sie aus strapazierfähigen Materialien wie Polyester oder Baumwolle gefertigt sind. Dadurch bleiben sie auch bei intensiver Nutzung formstabil und lösen sich nicht von selbst. Die Schnürsenkel sind in verschiedenen Farben erhältlich und passen sich somit optimal deinem Schuhstil an. Dank ihrer Länge von 110 cm eignen sie sich besonders gut für Schuhe mit 5 bis 7 Ösenpaaren, was sie ideal für den täglichen Einsatz macht. Durch ihre glatte Oberfläche lassen sich die Schnürsenkel leicht schnüren und garantieren einen festen Halt, ohne sich während des Tages zu lockern. Zudem sind sie pflegeleicht und können problemlos gereinigt werden, was ihre Langlebigkeit erhöht. Egal, ob du deine alten Schnürsenkel ersetzen oder deinem Schuh einen neuen Look verpassen möchtest – mit den Schnürsenkeln 110 cm erhältst du ein zuverlässiges und langlebiges Produkt.",
+    "images": "https://cdn.shopify.com/s/files/1/0492/6930/9589/products/75VP_WIT_1_5fd2ec5d-439e-496d-b10b-ac6aeea41df5.jpg?v=1690537958",
+    "price": "690",
+    "stock": "34",
+    "attributes": {
+      "color": [
+        "Weiss"
+      ],
+      "size": [
+        "110 cm"
+      ],
+      "gender": [
+        "Unisex"
+      ],
+      "age": [
+        "Erwachsen"
+      ],
+      "model": [],
+      "brand": [
+        "Nijdam"
+      ],
+      "material": [],
+      "sleevelength": [],
+      "pantslength": [],
+      "shoeheight": [],
+      "sole": [],
+      "insole": [],
+      "heelheight": [],
+      "uvprotection": []
+    },
+    "category": "Multisport",
+    "product_type": "Schnürsenkel",
+    "condition": "new",
+    "variant": {
+      "option_color": [
+        "Weiss"
+      ],
+      "group": [
+        "6461628350613"
+      ],
+      "option_size": [
+        "110 cm"
+      ],
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0492/6930/9589/products/75VP_WIT_1_5fd2ec5d-439e-496d-b10b-ac6aeea41df5.jpg?v=1690537958"
+      ]
+    },
+    "updated_at": "2024-12-16T09:27:50Z"
+  },
+  {
+    "product_id": "10020740104457",
+    "gtin": "3175681218222",
+    "title": "Isostar Hydrate & Peerform Powertabs 10x12g",
+    "description": "Isostar Powertabs sind Brausetabletten zur Zubereitung eines energiereduzierten, kohlenhydrat- und elektrolythaltigen Sportgetränks. Die enthaltenen Vitamine und Mineralstoffe unterstützen die Muskelfunktion und den Energiestoffwechsel. Das isotonische Getränk mit Antioxidantien in Form von Brausetabletten ist perfekt geeignet für unterwegs und einfach in der Anwendung.        Durchschnittliche Nährwertangaben pro 100 g     Brennwert 358 kcal / 1 525 kJ   Fett 0 g   davon gesättigte Fettsäuren 0 g   Kohlenhydrate 79 g   davon Zucker 75 g   Eiweiß 0 g   Salz Äquivalent 3,5 g   Calcium 340 mg   Kalium 383 mg   Magnesium 156 mg   Vitamin B 1, Thiamin 1,1 mg   Vitamin C 78 mg   Vitamin E 14 mg   Natrium 1,4 g",
+    "images": "https://cdn.shopify.com/s/files/1/0492/6930/9589/products/IsostarPowertabsCranberry-334749.jpg?v=1690538028",
+    "price": "790",
+    "stock": "6",
+    "attributes": {
+      "color": [],
+      "size": [],
+      "gender": [
+        "Unisex"
+      ],
+      "age": [
+        "Erwachsen"
+      ],
+      "model": [],
+      "brand": [
+        "Isostar"
+      ],
+      "material": [],
+      "sleevelength": [],
+      "pantslength": [],
+      "shoeheight": [],
+      "sole": [],
+      "insole": [],
+      "heelheight": [],
+      "uvprotection": []
+    },
+    "category": "Gesundheit",
+    "product_type": "Sporternährung",
+    "condition": "new",
+    "variant": {
+      "option_color": [],
+      "group": [
+        "6466367062165"
+      ],
+      "option_size": [],
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0492/6930/9589/products/IsostarPowertabsCranberry-334749.jpg?v=1690538028"
+      ]
+    },
+    "updated_at": "2025-02-17T16:36:26Z"
+  }
+]
