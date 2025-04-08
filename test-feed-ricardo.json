@@ -96,5 +96,50 @@
       ]
     },
     "updated_at": "2025-02-17T16:36:26Z"
+  },
+  {
+    "product_id": "50150419693839",
+    "gtin": "3175681218221",
+    "title": "Isostar Hydrate & Peerform Powertabs 10x12g - 2",
+    "description": "Isostar Powertabs sind Brausetabletten zur Zubereitung eines energiereduzierten, kohlenhydrat- und elektrolythaltigen Sportgetr\u00e4nks. Die enthaltenen Vitamine und Mineralstoffe unterst\u00fctzen die Muskelfunktion und den Energiestoffwechsel. Das isotonische Getr\u00e4nk mit Antioxidantien in Form von Brausetabletten ist perfekt geeignet f\u00fcr unterwegs und einfach in der Anwendung.  \u00a0     Durchschnittliche N\u00e4hrwertangaben pro 100 g     Brennwert 358 kcal / 1\u00a0525 kJ   Fett 0 g   davon ges\u00e4ttigte Fetts\u00e4uren 0 g   Kohlenhydrate 79 g   davon Zucker 75 g   Eiwei\u00df 0 g   Salz \u00c4quivalent 3,5 g   Calcium 340 mg   Kalium 383 mg   Magnesium 156 mg   Vitamin B 1, Thiamin 1,1 mg   Vitamin C 78 mg   Vitamin E 14 mg   Natrium 1,4 g",
+    "images": "https://cdn.shopify.com/s/files/1/0492/6930/9589/products/IsostarPowertabsCranberry-33474911.jpg?v=1690538028",
+    "price": "790",
+    "stock": "9",
+    "attributes": {
+      "color": [],
+      "size": [],
+      "gender": [
+        "Unisex"
+      ],
+      "age": [
+        "Erwachsen"
+      ],
+      "model": [],
+      "brand": [
+        "Isostar"
+      ],
+      "material": [],
+      "sleevelength": [],
+      "pantslength": [],
+      "shoeheight": [],
+      "sole": [],
+      "insole": [],
+      "heelheight": [],
+      "uvprotection": []
+    },
+    "category": "Gesundheit",
+    "product_type": "Sporternährung",
+    "condition": "new",
+    "variant": {
+      "option_color": [],
+      "group": [
+        "6466367062165"
+      ],
+      "option_size": [],
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0492/6930/9589/products/IsostarPowertabsCranberry-33474911.jpg?v=1690538028"
+      ]
+    },
+    "updated_at": "2025-02-17T16:36:26Z"
   }
 ]
